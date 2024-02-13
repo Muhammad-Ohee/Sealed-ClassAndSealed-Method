@@ -1,0 +1,15 @@
+C:\Users\Supernova\Documents\CS\Sealed-ClassAndSealed-Method\SealedAndPrivate\SealedAndPrivate\bin\Debug\net8.0\SealedAndPrivate.exe
+C:\Users\Supernova\Documents\CS\Sealed-ClassAndSealed-Method\SealedAndPrivate\SealedAndPrivate\bin\Debug\net8.0\SealedAndPrivate.deps.json
+C:\Users\Supernova\Documents\CS\Sealed-ClassAndSealed-Method\SealedAndPrivate\SealedAndPrivate\bin\Debug\net8.0\SealedAndPrivate.runtimeconfig.json
+C:\Users\Supernova\Documents\CS\Sealed-ClassAndSealed-Method\SealedAndPrivate\SealedAndPrivate\bin\Debug\net8.0\SealedAndPrivate.dll
+C:\Users\Supernova\Documents\CS\Sealed-ClassAndSealed-Method\SealedAndPrivate\SealedAndPrivate\bin\Debug\net8.0\SealedAndPrivate.pdb
+C:\Users\Supernova\Documents\CS\Sealed-ClassAndSealed-Method\SealedAndPrivate\SealedAndPrivate\obj\Debug\net8.0\SealedAndPrivate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supernova\Documents\CS\Sealed-ClassAndSealed-Method\SealedAndPrivate\SealedAndPrivate\obj\Debug\net8.0\SealedAndPrivate.AssemblyInfoInputs.cache
+C:\Users\Supernova\Documents\CS\Sealed-ClassAndSealed-Method\SealedAndPrivate\SealedAndPrivate\obj\Debug\net8.0\SealedAndPrivate.AssemblyInfo.cs
+C:\Users\Supernova\Documents\CS\Sealed-ClassAndSealed-Method\SealedAndPrivate\SealedAndPrivate\obj\Debug\net8.0\SealedAndPrivate.csproj.CoreCompileInputs.cache
+C:\Users\Supernova\Documents\CS\Sealed-ClassAndSealed-Method\SealedAndPrivate\SealedAndPrivate\obj\Debug\net8.0\SealedAndPrivate.sourcelink.json
+C:\Users\Supernova\Documents\CS\Sealed-ClassAndSealed-Method\SealedAndPrivate\SealedAndPrivate\obj\Debug\net8.0\SealedAndPrivate.dll
+C:\Users\Supernova\Documents\CS\Sealed-ClassAndSealed-Method\SealedAndPrivate\SealedAndPrivate\obj\Debug\net8.0\refint\SealedAndPrivate.dll
+C:\Users\Supernova\Documents\CS\Sealed-ClassAndSealed-Method\SealedAndPrivate\SealedAndPrivate\obj\Debug\net8.0\SealedAndPrivate.pdb
+C:\Users\Supernova\Documents\CS\Sealed-ClassAndSealed-Method\SealedAndPrivate\SealedAndPrivate\obj\Debug\net8.0\SealedAndPrivate.genruntimeconfig.cache
+C:\Users\Supernova\Documents\CS\Sealed-ClassAndSealed-Method\SealedAndPrivate\SealedAndPrivate\obj\Debug\net8.0\ref\SealedAndPrivate.dll
