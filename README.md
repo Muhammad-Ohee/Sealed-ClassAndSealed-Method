@@ -1,1 +1,1 @@
-# Sealed-ClassAndSealed-Method
+# Sealed Class And Sealed Method
